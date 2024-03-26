@@ -1,6 +1,6 @@
 namespace InversionDependencies.ServiceLayer.Services;
 
-public static class Accounts
+public static class AccountsService
 {
     public static  void GetAmountByAccount(Account account)
     {

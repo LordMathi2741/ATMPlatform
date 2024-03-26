@@ -14,8 +14,8 @@ public class Class1
        accountsProcess.CreateAccount(accountsCreated, 100);
        accountsProcess.CreateAccount(accountsCreated, 200);
        
-       Transaction.Retire(accountsCreated[0],30);
-       Accounts.GetAmountByAccount(accountsCreated[0]);
+       TransactionService.Retire(accountsCreated[0],30);
+       AccountsService.GetAmountByAccount(accountsCreated[0]);
 
     }
 }
