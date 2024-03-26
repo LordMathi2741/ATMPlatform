@@ -1,0 +1,12 @@
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/solution2/InversionDependencies/bin/Release/net8.0/InversionDependencies.deps.json
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/solution2/InversionDependencies/bin/Release/net8.0/InversionDependencies.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/solution2/InversionDependencies/bin/Release/net8.0/InversionDependencies.pdb
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/solution2/InversionDependencies/obj/Release/net8.0/InversionDependencies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/solution2/InversionDependencies/obj/Release/net8.0/InversionDependencies.AssemblyInfoInputs.cache
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/solution2/InversionDependencies/obj/Release/net8.0/InversionDependencies.AssemblyInfo.cs
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/solution2/InversionDependencies/obj/Release/net8.0/InversionDependencies.csproj.CoreCompileInputs.cache
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/solution2/InversionDependencies/obj/Release/net8.0/InversionDependencies.sourcelink.json
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/solution2/InversionDependencies/obj/Release/net8.0/InversionDependencies.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/solution2/InversionDependencies/obj/Release/net8.0/refint/InversionDependencies.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/solution2/InversionDependencies/obj/Release/net8.0/InversionDependencies.pdb
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/C#/solution2/InversionDependencies/obj/Release/net8.0/ref/InversionDependencies.dll
