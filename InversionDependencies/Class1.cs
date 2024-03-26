@@ -14,7 +14,7 @@ public class Class1
        accountsProcess.CreateAccount(accountsCreated, 100);
        accountsProcess.CreateAccount(accountsCreated, 200);
        
-       Transaction.Sell(accountsCreated[0],30);
+       Transaction.Retire(accountsCreated[0],30);
        Accounts.GetAmountByAccount(accountsCreated[0]);
 
     }
